@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>312582360067-lbo1bv26dfjh4lip1fdfeuvq7u1v3a6h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.312582360067-lbo1bv26dfjh4lip1fdfeuvq7u1v3a6h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYtMqBFOXEZtLMDlgWPJCrh9ZIABVGgI8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>312582360067</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.piratemonkeys.fitness-time</string>
+	<key>PROJECT_ID</key>
+	<string>fitnesstime-2345e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitnesstime-2345e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:312582360067:ios:4630e5c881b8dc55095236</string>
+	<key>DATABASE_URL</key>
+	<string>https://fitnesstime-2345e.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312582360067",
+    "firebase_url": "https://fitnesstime-2345e.firebaseio.com",
+    "project_id": "fitnesstime-2345e",
+    "storage_bucket": "fitnesstime-2345e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312582360067:android:f17941832657d791095236",
+        "android_client_info": {
+          "package_name": "com.piratemonkeys.fitness_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312582360067-uhahmdohbb8k2o2b9kb2fnj7pucv33d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBD75y_VK55Y8zhxPY6wnHy3tDRa8vJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312582360067-uhahmdohbb8k2o2b9kb2fnj7pucv33d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
